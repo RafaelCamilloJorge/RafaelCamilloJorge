@@ -1,7 +1,7 @@
 <h1>Rafael - Apaixonado por Novas Tecnologias</h1>
 <p>Bem-vindo ao meu perfil! Aqui você encontrará um entusiasta da tecnologia, mergulhado no mundo das inovações.</p>
 <h2>Sobre mim</h2>
-<ul><li>Nome: Rafael</li><li>Idade: 19 anos</li><li>Faculdade: Engenharia de Software(Unaerp) (4º semestre)</li></ul>
+<ul><li>Nome: Rafael</li><li>Idade: 19 anos</li><li>Faculdade: Engenharia de Software - Unaerp (4º semestre)</li></ul>
 <h2>Minha Paixão</h2>
 <p>Sou completamente fissurado por novas tecnologias e estou sempre em busca de aprender e experimentar coisas incríveis. Este repositório é o reflexo do meu fascínio pela inovação e pelo desenvolvimento de soluções criativas.</p>
 <h2>O Que Esperar</h2>
